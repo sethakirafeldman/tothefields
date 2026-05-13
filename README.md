@@ -4,7 +4,7 @@ This project is a React + Vite starter website for a singer-songwriter.
 
 ## Configuration
 
-Update `/home/runner/work/tothefields/tothefields/src/siteConfig.js` to customize the site content:
+Update `src/siteConfig.js` to customize the site content:
 
 - `artistName`
 - `tagline`
